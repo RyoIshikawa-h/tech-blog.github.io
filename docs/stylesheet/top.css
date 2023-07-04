@@ -71,7 +71,7 @@
 .card__meta {
   margin-top: 10px;
   display: flex;
-  align-items: baseline;
+  /* align-items: baseline; */
 }
 
 .card__meta-item {
